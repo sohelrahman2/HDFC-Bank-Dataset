@@ -2,7 +2,6 @@
 HDFC-Customer-Churn-Data
 
 Overview
-
 This project involves analyzing HDFC bank churn data using Microsoft Power BI. The dataset includes information on 10,000 customers, detailing their activity status, exit rates, and retention rates. The analysis aims to provide insights into customer behavior and churn patterns.
 
 Tools Used:
